@@ -1,5 +1,5 @@
 # GLOZZOM
-[Live Server] (https://diamondabhishek.github.io/GLOZZOM/)
+Live Server : https://diamondabhishek.github.io/GLOZZOM/
 
 Components used in Boostrap are - NAVBAR, CAROUSEL, MODALS, FORMS, CARDS, ACCORDION. GRIDS with BREAKPOINTS has been used to make the site responsive.
 
